@@ -14,6 +14,6 @@ Currently it's actually pretty terrible in how it works. It just checks the peak
 
 We currently only support songs that are not from Apple Music, have no DRM, and are downloaded on the device. An earlier version used the actual Music app's playback methods, but we had to switch. See if it's possible to maybe meter the output of the Music app.
 
-Also, the code is shit. It was written at 1-3 AM and it's shit.
+Also, the code isn't the greatest. For reference, it was written from 1-3 AM as a fun experiment.
 
 Enjoy :)
